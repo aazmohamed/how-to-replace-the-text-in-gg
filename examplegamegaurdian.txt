@@ -1,0 +1,4 @@
+---example---
+gg.alert('pls follow to github aazmohamed')
+gg.alert('pls sub to gameraaz dev')
+
